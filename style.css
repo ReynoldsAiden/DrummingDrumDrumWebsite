@@ -1,0 +1,46 @@
+#introduction {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #80D0FF;
+    text-align: center;
+    margin-left: 210px;
+    margin-right: 210px;
+    border: 5px, solid, #FFAF80;
+}
+
+img {
+    border: 5px, solid, #FFAF80;
+    
+}
+#pages {
+    border: 5px, solid, #FFAF80
+}
+
+h4 {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #80D0FF;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px, thin, #FFAF80;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#info {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #80D0FF;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 5px, solid, #FFAF80;
+}
+#left_images {
+    float: left;
+}
+#right_images {
+    float: right;
+}
